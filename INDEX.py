@@ -1,0 +1,31 @@
+print("This is my very first python file")
+print("This is my first class")
+print("Serma Onyore")
+print(18)
+print("18")
+age = 28
+age1 = 21
+print(age)
+print(age1)
+is_true = False
+print(is_true)
+
+name = "Serma"
+# first_name= input("what is your name")
+# age3= input("What is your age")
+print("hello " + name + ".How are you doing?")
+# birth_year = input("What is your birth year? ")
+# age = 2024 - int(birth_year)
+# print(age)
+# score = input("What is your score? ")
+# balance = 100 - float(score)
+# print(balance)
+# first_integer = input("What is your first integer? ")
+# second_integer = input("What is your second integer?")
+# sum = int(first_integer) + int(second_integer)
+# print("the sum is " + str(sum))
+number_one = input("What is your first number?")
+number_two = input("What is your second number?")
+number_three = input("What is your third number?")
+total = (int(number_one) + int(number_two)) - int(number_three )
+print(total)
